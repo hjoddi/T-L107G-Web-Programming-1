@@ -13,9 +13,9 @@ https://hjoddi-rps.netlify.app/
 
 ## Simple web-page for a fictitious business
 
-### Co-authors:
-### Arna Kristín Sigurðardóttir
-### Freyr Guðmundsson
-### Snæbjörg Pétursdóttir
+Co-authors:  
+Arna Kristín Sigurðardóttir  
+Freyr Guðmundsson  
+Snæbjörg Pétursdóttir
 
 https://modest-heisenberg-5aba8a.netlify.app/
